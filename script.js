@@ -26,5 +26,5 @@ let randomIndex = num => {
 const random1 = `${messages.intro[randomIndex(messages.intro.length)]}`
 const random2 = ` ${messages.exit[randomIndex(messages.exit.length)]} `
   
-  // log the messages to console
-  console.log(random1 , 'Oh hold on a sec!',random2)
+// log the messages to console
+console.log(random1 , 'Oh hold on a sec!',random2)
