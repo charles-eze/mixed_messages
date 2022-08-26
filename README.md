@@ -25,6 +25,4 @@ To run this program, you must have node.js installed.
 ## Status
 Project is: _completed_
 
-## Inspiration
-This is a Codecademy portfolio project. Learning on Codecademy has inspired me to continually develop myself and strive to become a better developer.
 
